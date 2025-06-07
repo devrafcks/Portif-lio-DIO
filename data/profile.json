@@ -1,24 +1,10 @@
 {
   "name": "Rafael Henrique Blanco",
-  "photo": "https://avatars.githubusercontent.com/u/27649348?v=4",
-  "job": "Desenvolvedor Web & Designer",
+  "job": "Desenvolvedor Full Stack e Designer UI/UX",
   "location": "São Paulo - SP",
-  "phone": "(Informe seu número aqui)",
-  "email": "(Informe seu email aqui)",
+  "email": "Rafcksps@gmail.com",
   "skills": {
     "hardSkills": [
-      {
-        "name": "React Native",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
-      },
-      {
-        "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/javascript.png"
-      },
-      {
-        "name": "Node.js",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
-      },
       {
         "name": "HTML5",
         "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
@@ -28,16 +14,44 @@
         "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
       },
       {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      },
+      {
+        "name": "TypeScript",
+        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      },
+      {
+        "name": "React.js",
+        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+      },
+      {
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"
+      },
+      {
+        "name": "Node.js",
+        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+      },
+      {
+        "name": "React Native",
+        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+      },
+      {
         "name": "Figma",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"
+      },
+      {
+        "name": "Photoshop",
+        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
       }
     ],
     "softSkills": [
       "Proatividade",
       "Comunicação clara",
-      "Trabalho colaborativo",
+      "Trabalho em equipe",
       "Adaptabilidade",
-      "Foco em resultados"
+      "Organização"
     ]
   },
   "languages": [
@@ -46,21 +60,36 @@
   ],
   "portfolio": [
     {
-      "name": "YouTube One Piece - Clone de Interface",
-      "url": "https://devrafcks.github.io/Page-Youtube-DIO/#",
+      "name": "Mapinion - Aplicativo de Avaliação de Locais",
+      "url": "https://github.com/devrafcks/React-native-mapinion",
       "github": true
     },
     {
-      "name": "App Mapinion - Avaliação de Lugares",
-      "url": "https://github.com/devrafcks/React-native-mapinion",
+      "name": "Spotify Full Stack Clone",
+      "url": "https://github.com/devrafcks/spotify-fullstack",
+      "github": true
+    },
+    {
+      "name": "MatemaGika - Aplicação Educacional",
+      "url": "https://github.com/devrafcks/MatemaGika",
+      "github": true
+    },
+    {
+      "name": "Sistema de Assinaturas - Bootcamp Pythonando",
+      "url": "https://github.com/devrafcks/Sistema-Assinaturas",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Designer Gráfico e Digital",
-      "period": "2016 - até o momento",
-      "description": "Desenvolvo identidades visuais, layouts e protótipos com foco em inovação e comunicação visual eficiente, utilizando ferramentas como Figma e Adobe Photoshop."
+      "name": "Estagiário de Marketing - Digital LZ",
+      "period": "ago de 2024 - dez de 2024",
+      "description": "Gestão de contas corporativas no LinkedIn e Instagram, desenvolvimento de campanhas digitais e criação de conteúdo visual."
+    },
+    {
+      "name": "Desenvolvedor Full Stack Freelancer",
+      "period": "2023 - até o momento",
+      "description": "Desenvolvimento de aplicações web e mobile, com foco em experiência do usuário e performance, utilizando tecnologias modernas como React.js, Node.js e Figma."
     }
   ]
 }
