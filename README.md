@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/54039d76-149e-45ba-92bd-d5d990de4126)
+
+
 # Portfólio JS Developer - Projeto DIO
 
 Este repositório contém a implementação do desafio prático da Digital Innovation One (DIO), que propõe o desenvolvimento de um portfólio profissional em JavaScript, utilizando conceitos essenciais aprendidos durante a imersão.
