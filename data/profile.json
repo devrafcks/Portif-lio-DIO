@@ -1,49 +1,51 @@
 {
   "name": "Rafael Henrique Blanco",
+  "photo": "https://avatars.githubusercontent.com/u/27649348?v=4",
   "job": "Desenvolvedor Full Stack e Designer UI/UX",
   "location": "São Paulo - SP",
-  "email": "Rafcksps@gmail.com",
+  "phone": "(Informe seu número aqui)",
+  "email": "(Informe seu email aqui)",
   "skills": {
     "hardSkills": [
       {
         "name": "HTML5",
-        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
       },
       {
         "name": "CSS3",
-        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
       },
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
       },
       {
         "name": "TypeScript",
-        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
       },
       {
         "name": "React.js",
-        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
       },
       {
         "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
       },
       {
         "name": "Node.js",
-        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
       },
       {
         "name": "React Native",
-        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
       },
       {
         "name": "Figma",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
       },
       {
         "name": "Photoshop",
-        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
       }
     ],
     "softSkills": [
@@ -66,7 +68,7 @@
     },
     {
       "name": "Spotify Full Stack Clone",
-      "url": "https://github.com/devrafcks/spotify-fullstack",
+      "url": "https://github.com/devrafcks/Deploy-Fullstack-Spotify",
       "github": true
     },
     {
@@ -84,12 +86,12 @@
     {
       "name": "Estagiário de Marketing - Digital LZ",
       "period": "ago de 2024 - dez de 2024",
-      "description": "Gestão de contas corporativas no LinkedIn e Instagram, desenvolvimento de campanhas digitais e criação de conteúdo visual."
+      "description": "Responsável pela gestão estratégica de mídias sociais (LinkedIn e Instagram), apoio em campanhas de marketing digital, criação de conteúdos visuais e relatórios de performance. Atuou diretamente na comunicação institucional e posicionamento digital da marca."
     },
     {
       "name": "Desenvolvedor Full Stack Freelancer",
       "period": "2023 - até o momento",
-      "description": "Desenvolvimento de aplicações web e mobile, com foco em experiência do usuário e performance, utilizando tecnologias modernas como React.js, Node.js e Figma."
+      "description": "Criação de aplicações web e mobile com foco em usabilidade e performance. Utilização de tecnologias modernas como React.js, Node.js, TypeScript e ferramentas de prototipação como Figma, com entregas voltadas para resultados e escalabilidade."
     }
   ]
 }
